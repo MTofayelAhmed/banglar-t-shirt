@@ -1,0 +1,12 @@
+.t-shirt{
+border: 1px solid lightgrey;
+border-radius: 15px;
+}
+.t-shirt img{
+  height: 250px;
+
+}
+.btn-now{
+  cursor: pointer;
+  
+}
